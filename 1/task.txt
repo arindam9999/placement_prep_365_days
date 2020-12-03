@@ -1,0 +1,40 @@
+1. Dynamic Programming problems:
+
+1400
+**********************************************
+https://codeforces.com/problemset/problem/489/C
+https://codeforces.com/problemset/problem/698/A
+https://codeforces.com/problemset/problem/1350/B
+https://codeforces.com/problemset/problem/538/B
+https://codeforces.com/problemset/problem/414/B
+https://codeforces.com/problemset/problem/1195/C
+https://codeforces.com/problemset/problem/1380/C
+https://codeforces.com/problemset/problem/1320/A
+https://codeforces.com/problemset/problem/1108/D
+https://codeforces.com/problemset/problem/1245/C
+https://codeforces.com/problemset/problem/289/B
+https://codeforces.com/problemset/problem/1276/A
+https://codeforces.com/problemset/problem/987/C
+https://codeforces.com/problemset/problem/1284/B
+https://codeforces.com/problemset/problem/1282/B1
+https://codeforces.com/problemset/problem/1215/B
+https://codeforces.com/problemset/problem/1189/C
+https://codeforces.com/problemset/problem/505/B
+https://codeforces.com/problemset/problem/602/B
+https://codeforces.com/problemset/problem/534/B
+
+2. Aptitude
+
+    a. Probability:
+        10 questions Cengage (1-10)
+    b. Permutation:
+        10 questions Cengage (1-10)
+    c. Quantitative Aptitude:
+        20 questions.
+
+3. Typing
+    https://www.learntyping.org/beginner-typing-lesson-1a
+
+4. Study
+    GFG trees and graphs
+    https://codeforces.com/stream/28
